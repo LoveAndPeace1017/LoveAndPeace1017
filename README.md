@@ -2,7 +2,7 @@
 - 👀 I’m interested in EveryThing
 - 🌱 I’m currently learning Linux
 - 📫 How to reach me CSDN：https://blog.csdn.net/m0_37138425?type=blog
-                           https://love-and-peace.top
+-                          https://love-and-peace.top
 -                          http://47.98.254.1/（买了域名，装了ssl，最后白嫖的云服务器不能备案，md被阿里云拦截了）
 
 <!---
